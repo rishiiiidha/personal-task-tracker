@@ -25,8 +25,6 @@ A simple and efficient personal task tracker app to help you manage your daily t
    ```
 3. Start the development server
    ```sh
-   npm start
-   # or
    npm run dev
    ```
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
