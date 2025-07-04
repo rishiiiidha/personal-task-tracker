@@ -1,6 +1,6 @@
 # Personal Task Tracker
 
-## 📖 Description
+## Description
 A simple and efficient personal task tracker app to help you manage your daily tasks, stay organized, and boost productivity. Add, edit, filter, and track your tasks with ease.
 
 ## Features
@@ -38,7 +38,12 @@ A simple and efficient personal task tracker app to help you manage your daily t
 - Tailwind CSS
 
 
-## Live Demo : https://personal-task-tracker-plum.vercel.app/
+#### Live Demo : https://personal-task-tracker-plum.vercel.app/
 
+### Screenshots :
+
+<img width="1681" alt="image" src="https://github.com/user-attachments/assets/2e801e33-a9b5-49a4-a831-c4bfb02e5ca5" />
+<img width="1687" alt="image" src="https://github.com/user-attachments/assets/7367140b-3ffd-44a9-89c0-87252bbb5381" />
+<img width="1691" alt="image" src="https://github.com/user-attachments/assets/d5260a43-7090-4885-9d50-50af7b319c2e" />
 
 
